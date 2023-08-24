@@ -7,9 +7,9 @@ int main()
     printf("\nincrease=%d",a++);
     printf("\na=%d",a);
       printf("\nincrease=%f",b++);
-     printf("\na=%f",b);
+     printf("\nb=%f",b);
        printf("\nincrease=%d",c++);
-     printf("\na=%d",c);
+     printf("\nc=%d",c);
        printf("\nincrease=%c",c++);
-     printf("\na=%c",c);
+     printf("\nc=%c",c);
 }
