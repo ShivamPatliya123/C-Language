@@ -16,5 +16,5 @@ int main()
      
      printf("\n roll no=%d",s1.Rollno);
      printf("\n marks=%0.2f",s1.marks);
-     printf("\n name+%s",s1.name);
+     printf("\n name=%s",s1.name);
 }
